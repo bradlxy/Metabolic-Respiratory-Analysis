@@ -1,0 +1,26 @@
+item,type,reason
+VTM a,row,VTM blank sample
+VTM a1,row,VTM blank sample
+VTM a2,row,VTM blank sample
+VTM a3,row,VTM blank sample
+VTM b,row,VTM blank sample
+VTM b1,row,VTM blank sample
+VTM b2,row,VTM blank sample
+VTM b3,row,VTM blank sample
+VTM c,row,VTM blank sample
+VTM c1,row,VTM blank sample
+VTM c2,row,VTM blank sample
+VTM c3,row,VTM blank sample
+c4.OH.Pro,column,invalid in 68% of samples
+Dopamine,column,invalid in 73% of samples
+alpha.AAA,column,invalid in 63% of samples
+Serotonin,column,invalid in 99% of samples
+ADMA,column,invalid in 89% of samples
+Diacetylspermine,column,invalid in 52% of samples
+alpha.Ketoglutaric.acid,column,invalid in 93% of samples
+HPHPA,column,invalid in 98% of samples
+p.Hydroxyhippuric.acid,column,invalid in 66% of samples
+Homovanillic.acid,column,invalid in 93% of samples
+Indole.acetic.acid,column,invalid in 59% of samples
+Trp,column,constant
+CT,column,leakage: PCR viral load only exists for infected patients
